@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    html {
+    font-family: 'Nunito', sans-serif;
+    font-size: 22px;
+    color: #fff;
+    }
+    
+    body {
+    
+    /* background-color: ; */
+    /* background-image: url('https://worshiphousemedia.s3.amazonaws.com/images/main/s/mo/ora/mo/mountainhazewelcomebackmotion.jpg'); */
+    /* background-image: url('https://worshiphousemedia.s3.amazonaws.com/images/main/s/mo/ora/mo/mountainhazewelcomebackmotion.jpg'); */
+    background-size: cover;
+    
+    }
+    .bg {
+        min-height: 100vh;
+        background-image: url('https://www.churchmotiongraphics.com/wp-content/uploads/2019/11/February2019.jpg');
+        background-size: cover;
+        width: 100%;
+        align-items: center;
+        
+    }
+    

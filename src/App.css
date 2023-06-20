@@ -1,0 +1,87 @@
+.App {
+  font-family: Serif;
+  font-size: 30px;
+  object-fit: cover;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.bar{
+  font-family: algerian;
+  font-size: 30px;
+  gap: 40px;
+}
+
+.UserList {
+  /* width: 300px;
+  height: 300px; */
+  object-fit: cover;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.App {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.profile-pic {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.App > div:nth-child(3) .profile-pic {
+  border-radius: 50%;
+}
+
+.add-user{
+  /* background-image: url("https://www.apexlawn.ca/wp-content/uploads/2017/03/Light-Plain-Color-Plain-Light-Color-Backgrounds-163193.jpg"); */
+  /* background-color: aliceblue; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-repeat:no-repeat; 
+  min-height: 100vh;
+  background-image: url('https://img.freepik.com/free-photo/pastel-tone-purple-pink-blue-gradient-defocused-abstract-photo-smooth-lines-pantone-color-background_49683-4059.jpg?size=664&ext=jpg');
+  background-size: cover;
+
+} 
+
+.add-user-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  /* background-color: azure; */
+  align-items: center;
+  justify-content: center;
+}
+
+.edit-user-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: azure;
+  align-items: center;
+  justify-content: center;
+  /* width: fit-content; */
+  background-repeat:no-repeat; 
+  min-height: 100vh;
+  background-image: url('https://img.freepik.com/free-photo/pastel-tone-purple-pink-blue-gradient-defocused-abstract-photo-smooth-lines-pantone-color-background_49683-4059.jpg?size=664&ext=jpg');
+  background-size: cover;
+  width: 100%;
+  
+}
+
+.about-emp {
+  background-repeat:no-repeat; 
+  min-height: 100vh;
+  background-image: url('https://img.freepik.com/free-photo/pastel-tone-purple-pink-blue-gradient-defocused-abstract-photo-smooth-lines-pantone-color-background_49683-4059.jpg?size=664&ext=jpg');
+  background-size: cover;
+  width: 100%;
+  align-items: center;
+}
+
