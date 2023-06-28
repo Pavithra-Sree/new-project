@@ -17,8 +17,8 @@ function Home() {
   }}
  >
   <p>
-  <img src="https://d1ssu070pg2v9i.cloudfront.net/pex/pex_carnegie2021/2021/08/04093919/Icon-3-Helping-people-to-help-each-other-sml.jpg" alt="user icon"/>
-  <h1>Welcome to User App</h1> 
+  <center><img src="https://d1ssu070pg2v9i.cloudfront.net/pex/pex_carnegie2021/2021/08/04093919/Icon-3-Helping-people-to-help-each-other-sml.jpg" alt="user icon"/></center>
+  <center><h1>User App</h1> </center>
   </p>
   </div>
 
